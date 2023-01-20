@@ -3,6 +3,8 @@ duckhunt-RadonUmar created by GitHub Classroom
 
 Redesigned version of the classic Duck Hunt with aliens and astronauts in space! 
 
+![image](https://user-images.githubusercontent.com/85165167/213788680-5fce0ad9-7431-4539-acf5-590c4fb5e489.png)
+
 Round starts at 1.
 You get to play 10 rounds (inclusive).
 The round maximum you play is decided by your performance.
